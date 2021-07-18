@@ -1,4 +1,4 @@
-![AirDraw.js](https://github.com/badboysm890/AirDrawJS/blob/main/rsz_airdraw_js.png)
+![AirDraw.js](https://github.com/badboysm890/AirMice.Py/blob/main/AirMice.Py.png)
 # Hand_Mouse_Control
 
 - Control Mouse using Hand powered by Media Pipe Hand Tracking and Gesture Control for Windows 10 and above
