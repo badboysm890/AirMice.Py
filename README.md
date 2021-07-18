@@ -1,6 +1,8 @@
 ![AirMice.Py](https://github.com/badboysm890/AirMice.Py/blob/main/AirMice.Py(1).png)
 # Hand_Mouse_Control
 
+Give a Star If you like 🌟
+
 - Control Mouse using Hand powered by Media Pipe Hand Tracking and Gesture Control for Windows 10 and above
 
 ## How to Install
